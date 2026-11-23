@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/🔒-You--Need--Security-red?style=for-the-badge&labelColor=black" alt="You Need Security">
+  <img src="assets/banner.jpg" alt="You Need Security — 15 essential tools for cybersecurity" width="100%">
 </p>
 
 <h1 align="center">🛡️ You-Need-Security</h1>
