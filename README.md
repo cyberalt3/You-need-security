@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="You Need Security — 15 essential tools for cybersecurity" width="100%">
+  <img src="assets/banner-v2.jpg" alt="You Need Security — 15 essential tools for cybersecurity" width="100%">
 </p>
 
 <h1 align="center">🛡️ You-Need-Security</h1>
