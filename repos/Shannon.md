@@ -1,6 +1,10 @@
 # Shannon
 
 <p align="center">
+  <img src="../assets/banners/shannon.png" alt="Shannon Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/KeygraphHQ/shannon">
     <img src="https://img.shields.io/github/stars/KeygraphHQ/shannon?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

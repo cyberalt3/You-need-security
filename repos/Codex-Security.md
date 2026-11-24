@@ -1,6 +1,10 @@
 # Codex Security
 
 <p align="center">
+  <img src="../assets/banners/codex-security.png" alt="Codex Security Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/openai/codex-security">
     <img src="https://img.shields.io/github/stars/openai/codex-security?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

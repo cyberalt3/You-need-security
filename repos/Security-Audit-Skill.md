@@ -1,6 +1,10 @@
 # Security Audit Skill
 
 <p align="center">
+  <img src="../assets/banners/security-audit-skill.png" alt="Security Audit Skill Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/cloudflare/security-audit-skill">
     <img src="https://img.shields.io/github/stars/cloudflare/security-audit-skill?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

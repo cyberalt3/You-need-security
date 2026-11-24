@@ -1,6 +1,10 @@
 # Nuclei
 
 <p align="center">
+  <img src="../assets/banners/nuclei.png" alt="Nuclei Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/projectdiscovery/nuclei">
     <img src="https://img.shields.io/github/stars/projectdiscovery/nuclei?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

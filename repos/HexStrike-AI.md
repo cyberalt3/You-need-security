@@ -1,6 +1,10 @@
 # HexStrike AI
 
 <p align="center">
+  <img src="../assets/banners/hexstrike-ai.png" alt="HexStrike AI Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/0x4m4/hexstrike-ai">
     <img src="https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

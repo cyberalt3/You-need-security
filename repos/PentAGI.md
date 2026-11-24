@@ -1,6 +1,10 @@
 # PentAGI
 
 <p align="center">
+  <img src="../assets/banners/pentagi.png" alt="PentAGI Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/vxcontrol/pentagi">
     <img src="https://img.shields.io/github/stars/vxcontrol/pentagi?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

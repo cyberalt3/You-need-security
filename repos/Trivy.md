@@ -1,6 +1,10 @@
 # Trivy
 
 <p align="center">
+  <img src="../assets/banners/trivy.png" alt="Trivy Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/aquasecurity/trivy">
     <img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

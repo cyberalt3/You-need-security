@@ -1,6 +1,10 @@
 # Semgrep
 
 <p align="center">
+  <img src="../assets/banners/semgrep.jpg" alt="Semgrep Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/semgrep/semgrep">
     <img src="https://img.shields.io/github/stars/semgrep/semgrep?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

@@ -1,6 +1,10 @@
 # Trail of Bits Skills
 
 <p align="center">
+  <img src="../assets/banners/trail-of-bits-skills.png" alt="Trail of Bits Skills Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/trailofbits/skills">
     <img src="https://img.shields.io/github/stars/trailofbits/skills?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

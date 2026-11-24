@@ -1,6 +1,10 @@
 # Strix
 
 <p align="center">
+  <img src="../assets/banners/strix.png" alt="Strix Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/usestrix/strix">
     <img src="https://img.shields.io/github/stars/usestrix/strix?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

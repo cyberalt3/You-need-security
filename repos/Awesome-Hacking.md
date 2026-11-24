@@ -1,6 +1,10 @@
 # Awesome Hacking
 
 <p align="center">
+  <img src="../assets/banners/awesome-hacking.png" alt="Awesome Hacking Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/Hack-with-Github/Awesome-Hacking">
     <img src="https://img.shields.io/github/stars/Hack-with-Github/Awesome-Hacking?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

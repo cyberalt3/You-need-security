@@ -1,6 +1,10 @@
 # ClamAV
 
 <p align="center">
+  <img src="../assets/banners/clamav.png" alt="ClamAV Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/Cisco-Talos/clamav">
     <img src="https://img.shields.io/github/stars/Cisco-Talos/clamav?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

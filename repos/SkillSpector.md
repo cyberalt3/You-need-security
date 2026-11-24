@@ -1,6 +1,10 @@
 # SkillSpector
 
 <p align="center">
+  <img src="../assets/banners/skillspector.png" alt="SkillSpector Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/NVIDIA/SkillSpector">
     <img src="https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

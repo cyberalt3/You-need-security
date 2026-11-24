@@ -1,6 +1,10 @@
 # Apex
 
 <p align="center">
+  <img src="../assets/banners/apex.png" alt="Apex Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/pensarai/apex">
     <img src="https://img.shields.io/github/stars/pensarai/apex?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>

@@ -1,6 +1,10 @@
 # TruffleHog
 
 <p align="center">
+  <img src="../assets/banners/trufflehog.png" alt="TruffleHog Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/trufflesecurity/trufflehog">
     <img src="https://img.shields.io/github/stars/trufflesecurity/trufflehog?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>
